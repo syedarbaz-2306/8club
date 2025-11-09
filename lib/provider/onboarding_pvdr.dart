@@ -5,7 +5,7 @@ import 'package:hotspot/services/api_service.dart';
 
 class OnboardingPvdr extends ChangeNotifier {
   //states
-  int _currentStep = 2;
+  int _currentStep = 1;
   final int _totalSteps = 2;
   bool _initialized = false;
   List<ExperienceModel> _expList = [];
