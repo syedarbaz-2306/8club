@@ -20,8 +20,8 @@ class AppColors {
   Color get surfaceBlack3 => const Color(0xFF101010);
 
   // --- Accent/Semantic Colors ---
-  Color get primaryAccent => const Color(0xFF2E66FF);
-  Color get secondaryAccent => const Color(0xFF6969FF);
+  Color get primaryAccent => const Color(0xFF6969FF);
+  Color get secondaryAccent => const Color(0xFF2E66FF);
   Color get positive => const Color(0xFF7E5B0B);
   Color get negative => const Color(0xFFC22743);
 
